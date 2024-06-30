@@ -3,6 +3,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurogoma939&show_icons=true&theme=radical)
 
+# Skills
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=php,laravel,dart,flutter,js,ts,nestjs,nextjs,nodejs,nuxtjs,html,css,docker,figma,firebase,mysql,postgres,git,github,gitlab,wordpress" />
+<br>
+
 # [Github Trophy](https://github.com/ryo-ma/github-profile-trophy#github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kurogoma939&theme=onedark)](https://github.com/Kurogoma939/github-profile-trophy)
